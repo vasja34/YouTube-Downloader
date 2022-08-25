@@ -4,7 +4,7 @@ from pytube import YouTube
 # https://www.youtube.com/watch?v=MRjVdu_cLwI&ab_channel=TheLegendSongs
 
 """
-Paste the youtube link into the GUI and click 'Submit'
+Paste the youtube link into the GUI and click 'submit'
 On the download tab choose the quality of video you like 
 """
 

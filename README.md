@@ -1,5 +1,5 @@
 # YouTube Downloader
- Paste the youtube link into the GUI and click 'Submit'
+ Paste the youtube link into the GUI and click 'submit'
 On the download tab choose the quality of video you like . (Based on [PySimpleGUI](https://github.com/PySimpleGUI) framework)
 
 - Input Dialog
