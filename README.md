@@ -10,7 +10,7 @@ On the download tab choose the quality of video you like . (Based on [PySimpleGU
 
 - Info Tab
 
-   ![Info](screenshots/info.png)
+   ![Info](screenshots/info.png?raw=true)
 
    ​
 
@@ -18,7 +18,7 @@ On the download tab choose the quality of video you like . (Based on [PySimpleGU
 
 - Download Tab
 
-   ![Download](screenshots/download.png)
+   ![Download](screenshots/download.png?raw=true)
 
    ​
 
