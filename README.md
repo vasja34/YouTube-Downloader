@@ -28,10 +28,10 @@ $ python youtube_dowloader.py
 
 - Input Dialog
   ![Input Dialog](screenshots/input.jpg?raw=true)
-   
+
 - Info Tab
   ![Info](screenshots/info.jpg?raw=true)
-   
+  
 - Download Tab
   ![Download](screenshots/download.jpg?raw=true)
 
