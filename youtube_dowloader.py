@@ -12,12 +12,26 @@ YouTube_icon = b"iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABHNCSVQICAgIfAh
 
 
 def progress_check(stream, chunk, bytes_remaining):
+    """
+    It takes the stream, chunk, and bytes_remaining as parameters and updates the progress bar with the
+    percentage of the file that has been downloaded
+
+    :param stream: The stream object that is being downloaded
+    :param chunk: the chunk of data that has been downloaded
+    :param bytes_remaining: The number of bytes remaining to be downloaded
+    """
     window["-DOWNLOAD_PROGRESS-"].update(
         100 - round(bytes_remaining / stream.filesize * 100)
     )
 
 
 def on_complete(stream, file_path):
+    """
+    It takes the stream and file path as parameters, and then updates the progress bar
+
+    :param stream: The stream that the download is coming from
+    :param file_path: The path to the file that is being downloaded
+    """
     window["-DOWNLOAD_PROGRESS-"].update(0)
 
 
