@@ -26,14 +26,14 @@ $ python youtube_dowloader.py
 
 ## Screenshots
 
-- Input Dialog
-  ![Input Dialog](screenshots/input.jpg?raw=true)
 
-- Info Tab
-  ![Info](screenshots/info.jpg?raw=true)
-  
-- Download Tab
-  ![Download](screenshots/download.jpg?raw=true)
+![Input Dialog](screenshots/input.jpg?raw=true)
+
+
+![Info](screenshots/info.jpg?raw=true)
+
+
+![Download](screenshots/download.jpg?raw=true)
 
 ## Author
 
